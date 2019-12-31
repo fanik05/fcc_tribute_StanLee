@@ -1,1 +1,1 @@
-# fcc_tribute_StanLee
+The project for freeCodeCamp responsive web design certification. My 1st webpage that I have built from scratch. Did a lot of mistakes. But everyone starts by building little things(self comfort XD). 
